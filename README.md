@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Kweku👋🏾!
+
+⚡ I'm studying to become a Fullstack Developer at Nackademin.<br>
+🌱 Currently learning headless Wordpress & React<br>
+💬 Always want to learn more about frontend!<br>
+📫 Reach me on LinkedIn 👉🏾 https://www.linkedin.com/in/kweku-moses-b286611b4/
+
 
 <!--
 **KwekuMoses/KwekuMoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
