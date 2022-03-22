@@ -5,6 +5,7 @@
 💬 Always want to learn more about frontend!<br>
 📫 Reach me on LinkedIn 👉🏾 https://www.linkedin.com/in/kweku-moses-b286611b4/<br>
 :star: See my Codepen 👉🏾 https://codepen.io/kwekumoses
+💼 Portfolio 👉🏾 www.kwekumoses.com
 
 <!--
 **KwekuMoses/KwekuMoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
