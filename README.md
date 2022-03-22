@@ -4,7 +4,7 @@
 🌱 Currently learning headless Wordpress & React<br>
 💬 Always want to learn more about frontend!<br>
 📫 Reach me on LinkedIn 👉🏾 https://www.linkedin.com/in/kweku-moses-b286611b4/<br>
-:star: See my Codepen 👉🏾 https://codepen.io/kwekumoses
+:star: See my Codepen 👉🏾 https://codepen.io/kwekumoses <br>
 💼 Portfolio 👉🏾 www.kwekumoses.com
 
 <!--
