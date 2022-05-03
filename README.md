@@ -4,6 +4,9 @@
 :star: See my Codepen 👉🏾 https://codepen.io/kwekumoses <br>
 💼 Portfolio 👉🏾 www.kwekumoses.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwekuMoses)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **KwekuMoses/KwekuMoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
