@@ -1,6 +1,6 @@
 ### Hello, I'm Kweku👋🏾!
 
-📫 Reach me on LinkedIn 👉🏾 https://www.linkedin.com/in/kweku-moses-b286611b4/<br>
+📫Reach me on LinkedIn 👉🏾 https://www.linkedin.com/in/kweku-moses-b286611b4/<br>
 
 
 
