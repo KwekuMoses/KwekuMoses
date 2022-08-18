@@ -1,7 +1,7 @@
 ### Hello, I'm Kweku👋🏾!
 
 📫 Reach me on LinkedIn 👉🏾 https://www.linkedin.com/in/kweku-moses-b286611b4/<br>
-:star: See my Codepen 👉🏾 https://codepen.io/kwekumoses <br>
+
 
 
 
